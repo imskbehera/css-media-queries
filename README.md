@@ -28,4 +28,4 @@ CSS Media queries Min-Width and Max-Width for Responsive Web Design
     @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
       /* For landscape layouts only */
     }
-``
+```
