@@ -2,6 +2,7 @@
 CSS Media queries Min-Width and Max-Width for Responsive Web Design
 
 ```
+   <style type="text/css">
     /* default styles here for older browsers. 
        I tend to go for a 600px - 960px width max but using percentages
     */
@@ -28,4 +29,5 @@ CSS Media queries Min-Width and Max-Width for Responsive Web Design
     @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
       /* For landscape layouts only */
     }
+</style>
 ```
